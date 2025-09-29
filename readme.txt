@@ -9,3 +9,4 @@ OperateOurUtopia
 OperateOurUtopia
 \\giving peace of mind
 \\giving knowledge
+\\giving strength
